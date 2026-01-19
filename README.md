@@ -68,7 +68,7 @@ The editor seamlessly integrates with the **polsoft.ITS** ecosystem:
 
 ---
 
-# **🚀 ScriptPad v1.0 HTML – Profesjonalny edytor tekstu i skryptów**
+# **ScriptPad v1.0 HTML – Profesjonalny edytor tekstu i skryptów**
 
 **ScriptPad CLI** to lekki, ale potężny edytor tekstowy klasy premium, zaprojektowany z myślą o programistach, administratorach systemów i entuzjastach automatyzacji. Stworzony przez **polsoft.ITS London**, łączy minimalistyczny design z zaawansowaną funkcjonalnością edycyjną.
 
